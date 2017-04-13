@@ -1,0 +1,6 @@
+c:\users\aconw\documents\visual studio 2015\Projects\CardInterfaceAssignment4\CardInterfaceAssignment4\bin\Debug\CardInterfaceAssignment4.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\CardInterfaceAssignment4\CardInterfaceAssignment4\obj\Debug\CardInterfaceAssignment4.csprojResolveAssemblyReference.cache
+c:\users\aconw\documents\visual studio 2015\Projects\CardInterfaceAssignment4\CardInterfaceAssignment4\bin\Debug\CardInterfaceAssignment4.exe
+c:\users\aconw\documents\visual studio 2015\Projects\CardInterfaceAssignment4\CardInterfaceAssignment4\bin\Debug\CardInterfaceAssignment4.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\CardInterfaceAssignment4\CardInterfaceAssignment4\obj\Debug\CardInterfaceAssignment4.exe
+c:\users\aconw\documents\visual studio 2015\Projects\CardInterfaceAssignment4\CardInterfaceAssignment4\obj\Debug\CardInterfaceAssignment4.pdb

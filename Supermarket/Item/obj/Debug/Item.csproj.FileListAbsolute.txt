@@ -1,0 +1,5 @@
+c:\users\aconw\documents\visual studio 2015\Projects\Supermarket\Item\bin\Debug\Item.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\Supermarket\Item\bin\Debug\Item.exe
+c:\users\aconw\documents\visual studio 2015\Projects\Supermarket\Item\bin\Debug\Item.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\Supermarket\Item\obj\Debug\Item.exe
+c:\users\aconw\documents\visual studio 2015\Projects\Supermarket\Item\obj\Debug\Item.pdb

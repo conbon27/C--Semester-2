@@ -1,0 +1,6 @@
+c:\users\aconw\documents\visual studio 2015\Projects\ReadName\ReadName\bin\Debug\ReadName.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\ReadName\ReadName\bin\Debug\ReadName.exe
+c:\users\aconw\documents\visual studio 2015\Projects\ReadName\ReadName\bin\Debug\ReadName.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\ReadName\ReadName\obj\Debug\ReadName.csprojResolveAssemblyReference.cache
+c:\users\aconw\documents\visual studio 2015\Projects\ReadName\ReadName\obj\Debug\ReadName.exe
+c:\users\aconw\documents\visual studio 2015\Projects\ReadName\ReadName\obj\Debug\ReadName.pdb

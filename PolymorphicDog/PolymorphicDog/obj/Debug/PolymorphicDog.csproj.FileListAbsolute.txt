@@ -1,0 +1,6 @@
+c:\users\aconw\documents\visual studio 2015\Projects\PolymorphicDog\PolymorphicDog\bin\Debug\PolymorphicDog.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\PolymorphicDog\PolymorphicDog\obj\Debug\PolymorphicDog.csprojResolveAssemblyReference.cache
+c:\users\aconw\documents\visual studio 2015\Projects\PolymorphicDog\PolymorphicDog\bin\Debug\PolymorphicDog.exe
+c:\users\aconw\documents\visual studio 2015\Projects\PolymorphicDog\PolymorphicDog\bin\Debug\PolymorphicDog.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\PolymorphicDog\PolymorphicDog\obj\Debug\PolymorphicDog.exe
+c:\users\aconw\documents\visual studio 2015\Projects\PolymorphicDog\PolymorphicDog\obj\Debug\PolymorphicDog.pdb

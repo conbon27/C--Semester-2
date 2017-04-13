@@ -1,0 +1,6 @@
+c:\users\aconw\documents\visual studio 2015\Projects\Management\Management\bin\Debug\Management.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\Management\Management\bin\Debug\Management.exe
+c:\users\aconw\documents\visual studio 2015\Projects\Management\Management\bin\Debug\Management.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\Management\Management\obj\Debug\Management.csprojResolveAssemblyReference.cache
+c:\users\aconw\documents\visual studio 2015\Projects\Management\Management\obj\Debug\Management.exe
+c:\users\aconw\documents\visual studio 2015\Projects\Management\Management\obj\Debug\Management.pdb

@@ -1,0 +1,6 @@
+c:\users\aconw\documents\visual studio 2015\Projects\ClubCardAssignment\ClubCardAssignment\bin\Debug\ClubCardAssignment.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\ClubCardAssignment\ClubCardAssignment\bin\Debug\ClubCardAssignment.exe
+c:\users\aconw\documents\visual studio 2015\Projects\ClubCardAssignment\ClubCardAssignment\bin\Debug\ClubCardAssignment.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\ClubCardAssignment\ClubCardAssignment\obj\Debug\ClubCardAssignment.csprojResolveAssemblyReference.cache
+c:\users\aconw\documents\visual studio 2015\Projects\ClubCardAssignment\ClubCardAssignment\obj\Debug\ClubCardAssignment.exe
+c:\users\aconw\documents\visual studio 2015\Projects\ClubCardAssignment\ClubCardAssignment\obj\Debug\ClubCardAssignment.pdb

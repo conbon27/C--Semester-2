@@ -1,0 +1,11 @@
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\bin\Debug\OrderSummary.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\bin\Debug\OrderSummary.exe
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\bin\Debug\OrderSummary.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\bin\Debug\MySql.Data.dll
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\bin\Debug\MySql.Data.xml
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.csprojResolveAssemblyReference.cache
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.OrderSummary.resources
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.Properties.Resources.resources
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.csproj.GenerateResource.Cache
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.exe
+c:\users\aconw\documents\visual studio 2015\Projects\OrderSummary\OrderSummary\obj\Debug\OrderSummary.pdb

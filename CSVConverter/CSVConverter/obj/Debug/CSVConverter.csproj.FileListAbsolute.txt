@@ -1,0 +1,5 @@
+c:\users\aconw\documents\visual studio 2015\Projects\CSVConverter\CSVConverter\bin\Debug\CSVConverter.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\CSVConverter\CSVConverter\bin\Debug\CSVConverter.exe
+c:\users\aconw\documents\visual studio 2015\Projects\CSVConverter\CSVConverter\bin\Debug\CSVConverter.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\CSVConverter\CSVConverter\obj\Debug\CSVConverter.exe
+c:\users\aconw\documents\visual studio 2015\Projects\CSVConverter\CSVConverter\obj\Debug\CSVConverter.pdb

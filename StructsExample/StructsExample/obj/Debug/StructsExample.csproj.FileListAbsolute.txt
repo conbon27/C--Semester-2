@@ -1,0 +1,6 @@
+c:\users\aconw\documents\visual studio 2015\Projects\StructsExample\StructsExample\bin\Debug\StructsExample.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\StructsExample\StructsExample\bin\Debug\StructsExample.exe
+c:\users\aconw\documents\visual studio 2015\Projects\StructsExample\StructsExample\bin\Debug\StructsExample.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\StructsExample\StructsExample\obj\Debug\StructsExample.csprojResolveAssemblyReference.cache
+c:\users\aconw\documents\visual studio 2015\Projects\StructsExample\StructsExample\obj\Debug\StructsExample.exe
+c:\users\aconw\documents\visual studio 2015\Projects\StructsExample\StructsExample\obj\Debug\StructsExample.pdb

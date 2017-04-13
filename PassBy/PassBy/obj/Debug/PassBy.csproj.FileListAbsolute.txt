@@ -1,0 +1,6 @@
+c:\users\aconw\documents\visual studio 2015\Projects\PassBy\PassBy\bin\Debug\PassBy.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\PassBy\PassBy\bin\Debug\PassBy.exe
+c:\users\aconw\documents\visual studio 2015\Projects\PassBy\PassBy\bin\Debug\PassBy.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\PassBy\PassBy\obj\Debug\PassBy.csprojResolveAssemblyReference.cache
+c:\users\aconw\documents\visual studio 2015\Projects\PassBy\PassBy\obj\Debug\PassBy.exe
+c:\users\aconw\documents\visual studio 2015\Projects\PassBy\PassBy\obj\Debug\PassBy.pdb

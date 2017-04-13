@@ -1,0 +1,6 @@
+c:\users\aconw\documents\visual studio 2015\Projects\OutRefBy\OutRefBy\bin\Debug\OutRefBy.exe.config
+c:\users\aconw\documents\visual studio 2015\Projects\OutRefBy\OutRefBy\bin\Debug\OutRefBy.exe
+c:\users\aconw\documents\visual studio 2015\Projects\OutRefBy\OutRefBy\bin\Debug\OutRefBy.pdb
+c:\users\aconw\documents\visual studio 2015\Projects\OutRefBy\OutRefBy\obj\Debug\OutRefBy.csprojResolveAssemblyReference.cache
+c:\users\aconw\documents\visual studio 2015\Projects\OutRefBy\OutRefBy\obj\Debug\OutRefBy.exe
+c:\users\aconw\documents\visual studio 2015\Projects\OutRefBy\OutRefBy\obj\Debug\OutRefBy.pdb
